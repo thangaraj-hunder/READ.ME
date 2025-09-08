@@ -1,4 +1,4 @@
-# Hi there, I'm 👋😍
+# Hi there, I'm THANGARAJ M👋😍
 
 ## 👨‍💻 About Me :
 - 🧑‍🔬 **Data Scientist** with experience in data analysis, modeling, and visualization.
@@ -11,7 +11,8 @@
 - **Special Interests:** Data Visualization
 
 ## 🌐 Connect with Me :
-- [LinkedIn](https://www.linkedin.com/in/lalchand-ak-060187265)
+-www.linkedin.com/in/thangaraj-m-914b27366
+
 
 ## 💞 Social Media :
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/DBJVJyBU)
