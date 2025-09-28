@@ -1,31 +1,39 @@
-# Hi there, I'm THANGARAJ M👋😍
+```markdown
+# 👋 Hi, I'm Thangaraj M  
+🚀 **Aspiring Data Scientist | Python | SQL | Power BI | Excel**  
 
-## 👨‍💻 About Me :
-- 🧑‍🔬 **Data Scientist** with experience in data analysis, modeling, and visualization.
-- 💡 Passionate about uncovering insights from data and making complex data easy to understand.
-- 😊 Always happy and eager to learn new things!
+Welcome to my GitHub! Here you’ll find my projects, experiments, and learning journey in **data science and analytics**.  
 
-## 🛠️ Skills :
-- **Languages:** Python
-- **Databases:** MySQL
-- **Special Interests:** Data Visualization
+---
 
-## 🌐 Connect with Me :
--www.linkedin.com/in/thangaraj-m-914b27366
+## 🔥 About Me
+- 📊 Passionate about solving problems using data  
+- 🐍 Skilled in **Python** for data analysis and machine learning  
+- 🗄️ Experienced in **SQL** for database queries  
+- 📈 Data visualization with **Power BI** & **Excel**  
+- 🌱 Currently exploring **machine learning projects**  
 
+---
 
-## 💞 Social Media :
-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/DBJVJyBU)
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/18tTtuRFds/?mibextid=qi2Omg)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___a_smiling_king___)
+## 📂 Featured Projects
+- 🧹 **Data Cleaning & EDA** – Automated pipelines for raw datasets  
+- 🤖 **Machine Learning Models** – Classification, regression, and prediction tasks  
+- 📊 **Power BI Dashboards** – Interactive visualizations for insights  
 
-# 💻 Tech Stack:
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IamlalchandAK&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=IamlalchandAK&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IamlalchandAK&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **Tools:** Power BI, Excel, Git/GitHub  
 
-                                            ⭐️ _Thank you for visiting my profile!_⭐
+---
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/thangaraj-m-914b27366)  
+- 🐙 [GitHub](https://github.com/thangaraj-hunder)  
+
+---
+
+⭐️ _Thanks for visiting my profile! Feel free to explore my repositories and connect._  
+```
